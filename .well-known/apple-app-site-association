@@ -17,7 +17,7 @@
         "paths": [
           "/payments/*",
           "/transactions/*",
-          "/documents/*"
+          "/document/*"
         ]
       },
       {
